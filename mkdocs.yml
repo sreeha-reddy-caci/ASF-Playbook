@@ -1,0 +1,7 @@
+site_name: ASF Playbook
+site_url: https://ASFPlaybook.com
+nav: 
+  - Home: index.md
+  - About: about.md
+  - Jira and Confluence: jira.md
+theme: readthedocs
